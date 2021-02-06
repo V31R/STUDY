@@ -1,0 +1,21 @@
+1
+coin
+32.32
+RUB
+Russia
+2000
+Goverment
+1000.0
+Euro
+Germany
+
+1
+BIG
+0.32
+dollar
+USA
+1969
+Unknown mint
+4000.0
+EuroDollar
+NightCity 

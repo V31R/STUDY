@@ -1,0 +1,87 @@
+1
+BIG
+0.32
+dollar
+USA
+1969
+Unknown mint
+4000.0
+EuroDollar
+NightCity
+
+1
+cent
+0.10
+dollar
+USA
+1969
+Known mint
+1.0
+Euro
+Italy
+
+1
+BIGGER
+0.1
+dollar
+USA
+1909
+Unknown mint
+4000.0
+EuroDollar
+NightCity
+
+1
+cent
+0.10
+dollar
+USA
+1989
+Known mint
+1.0
+Euro
+Italy
+
+1
+BIG
+1.32
+dollar
+USA
+1969
+Unknown mint
+4020.0
+EuroDollar
+NightCity
+
+1
+cent
+0.50
+dollar
+USA
+1969
+Known mint
+1.5
+Euro
+Italy
+
+1
+BIGGER
+0.10
+dollar
+USA
+1909
+Unknown mint
+4000.0
+EuroDollar
+NightCity
+
+1
+cent
+0.10
+dollar
+USA
+1989
+Unknown mint
+1.0
+Euro
+Italy
